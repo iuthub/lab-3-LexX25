@@ -1,0 +1,51 @@
+#main{
+	border:10px solid white;
+	background-color: white;
+	margin: auto;
+	margin-left: 10%;
+	margin-right: 10%;
+	overflow:auto;
+}
+body{
+		background-image: url("images/background.jpg");
+}
+#header{
+	background-color: #A8F0F0;
+	text-align: right;
+}
+#subheader{
+	font-size: 14pt;
+}
+.section{
+
+	border:4px solid #C2E9E9;
+	background-color: #E8FBFB;
+	padding:5px;
+	margin-top: 10px;
+	height:auto;
+	overflow: auto;
+}
+.date{
+	border-bottom:2px dashed blue;
+}
+.section img{
+	float:right;
+}
+.fitter{
+	clear:both;
+}
+#friends{
+	background-color: #99E0E0;
+	margin-top: 10px;
+	width: 150px;
+	padding: 5px;
+	border: 5px #009097 solid;
+	margin-right: 15px;
+}
+.right{
+	float: right;
+	width:75%;
+}
+.left{
+	float:right;
+}
